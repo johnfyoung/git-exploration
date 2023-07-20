@@ -6,3 +6,4 @@ Checking out git
 1. Adding to `main` branch
 1. Adding to `develop` branch
 1. Another change in develop
+1. trying to push to main
