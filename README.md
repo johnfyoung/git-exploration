@@ -8,3 +8,6 @@ Checking out git
 1. Another change in develop
 1. trying to push to main
 1. new feature
+
+
+fixes authentication
